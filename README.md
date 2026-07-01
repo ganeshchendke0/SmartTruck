@@ -1,8 +1,8 @@
 # SmartTruck
 
-SmartTruck is an award-winning end-to-end IoT cargo security system for trucks built on ESP32 hardware. It combines real-time load monitoring, door status detection, GPS location reporting, Bluetooth motor control, and a Streamlit dashboard to help prevent theft and verify authorized unloading.
+- 🏆 **Smart Truck Logistics Monitoring System (IoT)** — End-to-end cargo security system using ESP32, Load Cells, GPS & GSM modules with real-time alerts and live tracking. **Ranked 4th out of 65** in a competitive project exhibition.
 
-> 🏆 Ranked 4th among 65 projects in the achievement challenge.
+SmartTruck combines real-time load monitoring, door status detection, GPS location reporting, Bluetooth motor control, and a Streamlit dashboard to help prevent theft and verify authorized unloading.
 
 ## Key Features
 
