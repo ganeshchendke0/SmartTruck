@@ -1,0 +1,17 @@
+# ThingSpeak
+import os
+
+# ThingSpeak
+THINGSPEAK_READ_API = os.getenv("THINGSPEAK_READ_API")
+THINGSPEAK_WRITE_API = os.getenv("THINGSPEAK_WRITE_API")
+CHANNEL_ID = os.getenv("CHANNEL_ID")
+
+# Twilio
+TWILIO_SID = os.getenv("TWILIO_SID")
+TWILIO_TOKEN = os.getenv("TWILIO_TOKEN")
+
+TWILIO_WHATSAPP = os.getenv("TWILIO_WHATSAPP")
+OWNER_WHATSAPP = os.getenv("OWNER_WHATSAPP")
+
+TWILIO_SMS = os.getenv("TWILIO_SMS")
+OWNER_SMS = os.getenv("OWNER_SMS")
